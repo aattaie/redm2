@@ -4,8 +4,8 @@
 # Line indentation must be 2 spaces (no tabs).
 
 production:
-  adapter: mysql2
-  database: terrabase_test
+  adapter: mysql3
+  database: terrabase_www
   host: localhost
   username: terrabase
   password: "terramsql"
